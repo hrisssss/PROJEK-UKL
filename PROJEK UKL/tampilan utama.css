@@ -1,7 +1,7 @@
  /* Variables */
 
- .body {
-    background-image: url(Artists.jpeg);
+ body {
+    font-family: Arial, sans-serif;
  }
 
  :root {
@@ -45,6 +45,7 @@
     font-size: 1.5rem;
     color: var(--teal);
     font-weight: bold;
+    font-family: Arial, sans-serif;
 }
 
 .nav-links a {
